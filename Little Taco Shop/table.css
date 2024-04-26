@@ -1,0 +1,7 @@
+table, tr, th, td, caption {
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+    background-color: rgb(74, 74, 83);
+}
